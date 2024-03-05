@@ -1,0 +1,9 @@
+accession_id_prefix: AITXXX
+author: https://orcid.org/0000-0003-3373-7386
+description: 'Cellular and molecular characterization of human cortical cytoarchitecture.
+  Supercluster: MGE-derived interneurons.'
+github_org: hkir-dev
+id: CCN20240304
+matrix_file_id: CellXGene_dataset:9c63201d-bfd9-41a8-bbbc-18d947556f3d
+repo: human-neocortex-mge-derived-interneurons
+title: 'Supercluster: MGE-derived interneurons'
