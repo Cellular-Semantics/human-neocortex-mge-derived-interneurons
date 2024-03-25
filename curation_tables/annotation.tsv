@@ -1,53 +1,53 @@
 cell_set_accession	cell_label	cell_fullname	parent_cell_set_accession	parent_cell_set_name	labelset	cell_ontology_term_id	cell_ontology_term	rationale	rationale_dois	marker_gene_evidence	synonyms
-7d8f2b662c	Sst_1	Sst_1	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-14ac4ed208	Sst_20	Sst_20	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-d30f38bdfd	Pvalb_9	Pvalb_9	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-05bac51b08	Sst_32	Sst_32	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2e5825621f	Sst_9	Sst_9	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-6584de1caf	Sst_36	Sst_36	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-a799a5dfcd	Sst_31	Sst_31	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-f3a4aa95a8	Sst_2	Sst_2	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-cd20490358	Sst_22	Sst_22	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-7d404cf442	Pvalb_1	Pvalb_1	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-532da9530a	Sst_7	Sst_7	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2e924871cd	Pvalb_2	Pvalb_2	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-bbd8f70d7f	Pvalb_8	Pvalb_8	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-b6b354fc3f	Sst_18	Sst_18	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-0128fa489f	Sst_23	Sst_23	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-3efe9eeb43	Sst_6	Sst_6	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-6bc68359fe	Sst_14	Sst_14	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-a794710cb8	Sst_5	Sst_5	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2f656da08b	Sst_10	Sst_10	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-b024af0343	Sst_15	Sst_15	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2602f238e6	Pvalb_3	Pvalb_3	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-adbeecd1a4	Sst_37	Sst_37	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-1e065188f8	Sst Chodl_1	Sst Chodl_1			CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-ab94790138	Sst_35	Sst_35	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-4fd8965645	Sst_25	Sst_25	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-080dbcee9f	Sst_21	Sst_21	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-d45a76da9f	Sst_8	Sst_8	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-3cfa6b316f	Sst_13	Sst_13	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-5d62c36b60	Sst_19	Sst_19	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-1d6598ddcc	Sst_34	Sst_34	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2d945b55d3	Sst_24	Sst_24	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-27fd58b586	Pvalb_6	Pvalb_6	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-cfde32747b	Chandelier_1	Chandelier_1			CrossArea_cluster	CL:4023036	chandelier pvalb GABAergic cortical interneuron				
-edc35f9770	Pvalb_7	Pvalb_7	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-83f75a18f2	Sst_33	Sst_33	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-1ecbe01ed0	Sst_16	Sst_16	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-2325fde91d	Sst_28	Sst_28	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-096a45194f	Sst_26	Sst_26	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-20b67d5b57	Pvalb_4	Pvalb_4	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-7dc28826dc	Sst_3	Sst_3	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-4aedcdc32b	Sst_11	Sst_11	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-31093cc121	Sst_27	Sst_27	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-34ac3854d2	Pvalb_5	Pvalb_5	df6aaa8f2b	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
-00685b69a0	Sst_12	Sst_12	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-8141cc5014	Sst_17	Sst_17	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-43db2eb17c	Sst_4	Sst_4	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-86abae4e65	Sst_29	Sst_29	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-ded68101eb	Sst_30	Sst_30	9f134d6e7b	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
-cfde32747b	Chandelier	Chandelier			CrossArea_subclass	CL:4023036	chandelier pvalb GABAergic cortical interneuron				
-1e065188f8	Sst Chodl	Sst Chodl			CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
-df6aaa8f2b	Pvalb	Pvalb			CrossArea_subclass	CL:4023018	pvalb GABAergic cortical interneuron				
-9f134d6e7b	Sst	Sst			CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
+CrossArea_cluster:532da9530a	Sst_7	Sst_7	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:7dc28826dc	Sst_3	Sst_3	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:b024af0343	Sst_15	Sst_15	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:3cfa6b316f	Sst_13	Sst_13	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:1ecbe01ed0	Sst_16	Sst_16	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:a799a5dfcd	Sst_31	Sst_31	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:f3a4aa95a8	Sst_2	Sst_2	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:d45a76da9f	Sst_8	Sst_8	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:31093cc121	Sst_27	Sst_27	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:86abae4e65	Sst_29	Sst_29	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:27fd58b586	Pvalb_6	Pvalb_6	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:096a45194f	Sst_26	Sst_26	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:4fd8965645	Sst_25	Sst_25	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:adbeecd1a4	Sst_37	Sst_37	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:080dbcee9f	Sst_21	Sst_21	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:cd20490358	Sst_22	Sst_22	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:b6b354fc3f	Sst_18	Sst_18	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:6bc68359fe	Sst_14	Sst_14	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:7d8f2b662c	Sst_1	Sst_1	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:4aedcdc32b	Sst_11	Sst_11	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:ab94790138	Sst_35	Sst_35	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:2f656da08b	Sst_10	Sst_10	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:2e5825621f	Sst_9	Sst_9	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:14ac4ed208	Sst_20	Sst_20	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:edc35f9770	Pvalb_7	Pvalb_7	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:0128fa489f	Sst_23	Sst_23	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:cfde32747b	Chandelier_1	Chandelier_1	CrossArea_subclass:cfde32747b	Chandelier	CrossArea_cluster						
+CrossArea_cluster:d30f38bdfd	Pvalb_9	Pvalb_9	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:a794710cb8	Sst_5	Sst_5	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:8141cc5014	Sst_17	Sst_17	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:7d404cf442	Pvalb_1	Pvalb_1	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:20b67d5b57	Pvalb_4	Pvalb_4	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:43db2eb17c	Sst_4	Sst_4	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:34ac3854d2	Pvalb_5	Pvalb_5	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:2e924871cd	Pvalb_2	Pvalb_2	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:ded68101eb	Sst_30	Sst_30	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:1d6598ddcc	Sst_34	Sst_34	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:3efe9eeb43	Sst_6	Sst_6	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:1e065188f8	Sst Chodl_1	Sst Chodl_1	CrossArea_subclass:1e065188f8	Sst Chodl	CrossArea_cluster						
+CrossArea_cluster:2325fde91d	Sst_28	Sst_28	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:00685b69a0	Sst_12	Sst_12	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:5d62c36b60	Sst_19	Sst_19	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:bbd8f70d7f	Pvalb_8	Pvalb_8	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_cluster:6584de1caf	Sst_36	Sst_36	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:2d945b55d3	Sst_24	Sst_24	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:05bac51b08	Sst_32	Sst_32	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:83f75a18f2	Sst_33	Sst_33	CrossArea_subclass:9f134d6e7b	Sst	CrossArea_cluster						
+CrossArea_cluster:2602f238e6	Pvalb_3	Pvalb_3	CrossArea_subclass:df6aaa8f2b	Pvalb	CrossArea_cluster						
+CrossArea_subclass:9f134d6e7b	Sst	Sst			CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
+CrossArea_subclass:df6aaa8f2b	Pvalb	Pvalb			CrossArea_subclass	CL:4023018	pvalb GABAergic cortical interneuron				
+CrossArea_subclass:1e065188f8	Sst Chodl	Sst Chodl			CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
+CrossArea_subclass:cfde32747b	Chandelier	Chandelier			CrossArea_subclass	CL:4023036	chandelier pvalb GABAergic cortical interneuron				
