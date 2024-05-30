@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xml:base="https://purl.brain-bican.org/ontology/AIT_CCN20240304/"
+   xmlns:CAS="https://cellular-semantics.sanger.ac.uk/ontology/CAS/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://cellular-semantics.sanger.ac.uk/ontology/CAS/HNEO">
+    <CAS:author_name>Trygve E Bakken</CAS:author_name>
+    <CAS:labelsets rdf:resource="CrossArea_cluster"/>
+    <CAS:labelsets rdf:resource="CrossArea_subclass"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#532da9530a"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#7dc28826dc"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#b024af0343"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#3cfa6b316f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#1ecbe01ed0"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a799a5dfcd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#f3a4aa95a8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#d45a76da9f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#31093cc121"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#86abae4e65"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#27fd58b586"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#096a45194f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#4fd8965645"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#adbeecd1a4"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#080dbcee9f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#cd20490358"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#b6b354fc3f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#6bc68359fe"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#7d8f2b662c"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#4aedcdc32b"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#ab94790138"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2f656da08b"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2e5825621f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#14ac4ed208"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#edc35f9770"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#0128fa489f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#cfde32747b"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#d30f38bdfd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a794710cb8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#8141cc5014"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#7d404cf442"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#20b67d5b57"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#43db2eb17c"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#34ac3854d2"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2e924871cd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#ded68101eb"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#1d6598ddcc"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#3efe9eeb43"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#1e065188f8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2325fde91d"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#00685b69a0"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#5d62c36b60"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#bbd8f70d7f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#6584de1caf"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2d945b55d3"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#05bac51b08"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#83f75a18f2"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2602f238e6"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#1e065188f8"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#cfde32747b"/>
+    <CAS:matrix_file_id>CellXGene_dataset:9c63201d-bfd9-41a8-bbbc-18d947556f3d</CAS:matrix_file_id>
+    <CAS:cellannotation_schema_version>4.0.0</CAS:cellannotation_schema_version>
+    <CAS:orcid>https://orcid.org/0000-0003-3373-7386</CAS:orcid>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/GeneralCellAnnotationOpenStandard"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N36bfc08c64704ce2a33701484a2ac9ab">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#31093cc121">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_27</rdfs:label>
+    <skos:preflabel>Sst_27</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#9f134d6e7b">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Sst</rdfs:label>
+    <skos:preflabel>Sst</skos:preflabel>
+    <CAS:cell_ontology_term>sst GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N37ec856d261343efa3cd3cb974920c43"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#cfde32747b">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Chandelier_1</rdfs:label>
+    <skos:preflabel>Chandelier_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#cfde32747b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#532da9530a">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_7</rdfs:label>
+    <skos:preflabel>Sst_7</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#b6b354fc3f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_18</rdfs:label>
+    <skos:preflabel>Sst_18</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#4aedcdc32b">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_11</rdfs:label>
+    <skos:preflabel>Sst_11</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2f656da08b">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_10</rdfs:label>
+    <skos:preflabel>Sst_10</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#1e065188f8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst Chodl_1</rdfs:label>
+    <skos:preflabel>Sst Chodl_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#1e065188f8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster">
+    <rdfs:label>CrossArea_cluster</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#cfde32747b">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Chandelier</rdfs:label>
+    <skos:preflabel>Chandelier</skos:preflabel>
+    <CAS:cell_ontology_term>chandelier pvalb GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nb3fbe0da3b2e48218bb487d0b388c23d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#43db2eb17c">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_4</rdfs:label>
+    <skos:preflabel>Sst_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#7d8f2b662c">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_1</rdfs:label>
+    <skos:preflabel>Sst_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#83f75a18f2">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_33</rdfs:label>
+    <skos:preflabel>Sst_33</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#1ecbe01ed0">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_16</rdfs:label>
+    <skos:preflabel>Sst_16</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#00685b69a0">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_12</rdfs:label>
+    <skos:preflabel>Sst_12</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#d30f38bdfd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_9</rdfs:label>
+    <skos:preflabel>Pvalb_9</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a794710cb8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_5</rdfs:label>
+    <skos:preflabel>Sst_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#6584de1caf">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_36</rdfs:label>
+    <skos:preflabel>Sst_36</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#5d62c36b60">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_19</rdfs:label>
+    <skos:preflabel>Sst_19</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#b024af0343">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_15</rdfs:label>
+    <skos:preflabel>Sst_15</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#86abae4e65">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_29</rdfs:label>
+    <skos:preflabel>Sst_29</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#1e065188f8">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Sst Chodl</rdfs:label>
+    <skos:preflabel>Sst Chodl</skos:preflabel>
+    <CAS:cell_ontology_term>sst GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N36bfc08c64704ce2a33701484a2ac9ab"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#df6aaa8f2b">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Pvalb</rdfs:label>
+    <skos:preflabel>Pvalb</skos:preflabel>
+    <CAS:cell_ontology_term>pvalb GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Neffdd39fbed64f8cac0e01b24f8bfdcc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#ded68101eb">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_30</rdfs:label>
+    <skos:preflabel>Sst_30</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#05bac51b08">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_32</rdfs:label>
+    <skos:preflabel>Sst_32</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#f3a4aa95a8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_2</rdfs:label>
+    <skos:preflabel>Sst_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#bbd8f70d7f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_8</rdfs:label>
+    <skos:preflabel>Pvalb_8</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2325fde91d">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_28</rdfs:label>
+    <skos:preflabel>Sst_28</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#7dc28826dc">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_3</rdfs:label>
+    <skos:preflabel>Sst_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#d45a76da9f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_8</rdfs:label>
+    <skos:preflabel>Sst_8</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#27fd58b586">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_6</rdfs:label>
+    <skos:preflabel>Pvalb_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#adbeecd1a4">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_37</rdfs:label>
+    <skos:preflabel>Sst_37</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#cd20490358">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_22</rdfs:label>
+    <skos:preflabel>Sst_22</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#3cfa6b316f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_13</rdfs:label>
+    <skos:preflabel>Sst_13</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#4fd8965645">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_25</rdfs:label>
+    <skos:preflabel>Sst_25</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#0128fa489f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_23</rdfs:label>
+    <skos:preflabel>Sst_23</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass">
+    <rdfs:label>CrossArea_subclass</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#ab94790138">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_35</rdfs:label>
+    <skos:preflabel>Sst_35</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#14ac4ed208">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_20</rdfs:label>
+    <skos:preflabel>Sst_20</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#edc35f9770">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_7</rdfs:label>
+    <skos:preflabel>Pvalb_7</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#6bc68359fe">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_14</rdfs:label>
+    <skos:preflabel>Sst_14</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2602f238e6">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_3</rdfs:label>
+    <skos:preflabel>Pvalb_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#34ac3854d2">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_5</rdfs:label>
+    <skos:preflabel>Pvalb_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#080dbcee9f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_21</rdfs:label>
+    <skos:preflabel>Sst_21</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#8141cc5014">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_17</rdfs:label>
+    <skos:preflabel>Sst_17</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a799a5dfcd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_31</rdfs:label>
+    <skos:preflabel>Sst_31</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#20b67d5b57">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_4</rdfs:label>
+    <skos:preflabel>Pvalb_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2e924871cd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_2</rdfs:label>
+    <skos:preflabel>Pvalb_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neffdd39fbed64f8cac0e01b24f8bfdcc">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#096a45194f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_26</rdfs:label>
+    <skos:preflabel>Sst_26</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb3fbe0da3b2e48218bb487d0b388c23d">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2d945b55d3">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_24</rdfs:label>
+    <skos:preflabel>Sst_24</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2e5825621f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_9</rdfs:label>
+    <skos:preflabel>Sst_9</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#3efe9eeb43">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_6</rdfs:label>
+    <skos:preflabel>Sst_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#1d6598ddcc">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sst_34</rdfs:label>
+    <skos:preflabel>Sst_34</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9f134d6e7b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#7d404cf442">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pvalb_1</rdfs:label>
+    <skos:preflabel>Pvalb_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#df6aaa8f2b"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N37ec856d261343efa3cd3cb974920c43">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023017"/>
+  </rdf:Description>
+</rdf:RDF>
